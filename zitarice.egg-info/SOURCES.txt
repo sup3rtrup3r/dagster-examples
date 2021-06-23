@@ -1,0 +1,15 @@
+README.md
+setup.py
+zitarice.egg-info/PKG-INFO
+zitarice.egg-info/SOURCES.txt
+zitarice.egg-info/dependency_links.txt
+zitarice.egg-info/requires.txt
+zitarice.egg-info/top_level.txt
+zitarice_tests/test_pipelines/__init__.py
+zitarice_tests/test_pipelines/test_cereals_pipeline.py
+zitarice_tests/test_pipelines/test_my_pipeline.py
+zitarice_tests/test_solids/__init__.py
+zitarice_tests/test_solids/test_calories_cereals.py
+zitarice_tests/test_solids/test_hello.py
+zitarice_tests/test_solids/test_hello_cereals.py
+zitarice_tests/test_solids/test_sugariest_cereal.py
